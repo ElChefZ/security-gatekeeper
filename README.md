@@ -109,4 +109,4 @@ Send only the matching coin on the matching network. A ⭐ on this repo helps to
 
 [Apache-2.0](LICENSE). Use it, fork it, ship safer.
 
-Parts of the checklists are adapted from [Strix](https://github.com/usestrix/strix) (Apache-2.0, © OmniSecure Inc.); see [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). This project is not affiliated with or endorsed by Strix.
+Includes material adapted from third-party open-source projects; see [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).

@@ -109,4 +109,4 @@ Envía solo la moneda correcta en la red correcta. ¡Una ⭐ en el repositorio t
 
 [Apache-2.0](LICENSE). Úsala, haz un fork y lanza con más seguridad.
 
-Parte de las listas de verificación se adaptó de [Strix](https://github.com/usestrix/strix) (Apache-2.0, © OmniSecure Inc.); consulta [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). Este proyecto no está afiliado ni respaldado por Strix.
+Incluye material adaptado de proyectos de código abierto de terceros; consulta [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).

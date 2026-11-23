@@ -109,4 +109,4 @@ Envie só a moeda certa na rede certa. Uma ⭐ no repositório também ajuda!
 
 [Apache-2.0](LICENSE). Use, faça fork e lance com mais segurança.
 
-Parte dos checklists foi adaptada do [Strix](https://github.com/usestrix/strix) (Apache-2.0, © OmniSecure Inc.); veja [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). Este projeto não é afiliado nem endossado pelo Strix.
+Inclui material adaptado de projetos open source de terceiros; veja [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).

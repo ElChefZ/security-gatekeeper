@@ -9,8 +9,6 @@ metadata:
 # ULTIMATE SECURITY GATEKEEPER v4.0
 ## Auditor pré-lançamento de Segurança, Privacidade e Supply Chain
 
-> Seções 5A, 5B e partes da Fase 7 e da Seção 7 (correção) adaptadas de [Strix](https://github.com/usestrix/strix) (Apache-2.0, © OmniSecure Inc.) — reescritas e modificadas por ElChefZ. Ver Créditos no final.
-
 ## 0. Quando acionar (gatilho)
 
 Todo projeto criado pelo usuário com o Claude (apps, sites, templates web, SaaS, utilitários desktop, extensões, scripts, skills) deve passar por esta checagem na **fase final**, antes de publicar, vender, subir para loja/GitHub ou fazer deploy.
