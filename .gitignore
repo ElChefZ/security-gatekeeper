@@ -1,0 +1,12 @@
+# Windows / OneDrive
+desktop.ini
+Thumbs.db
+
+# Segredos e logs
+.env
+.env.*
+*.log
+
+# Pacotes e relatórios locais
+*.zip
+*AUDITORIA*.md
