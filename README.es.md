@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/banner.png" alt="Security Gatekeeper: skill de auditoría de seguridad previa al lanzamiento para Claude" width="100%">
+
 # 🛡️ Security Gatekeeper
 
 ### Tu última línea de defensa antes de pulsar "publicar".
